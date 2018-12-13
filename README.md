@@ -1,5 +1,5 @@
 # perception_demos
-This is a work in progress collection of simple pyton demostrations of concepts from the science of perception.
+This is a work in progress collection of simple Python demostrations of concepts from the science of perception.
 
 Demos are viewable using Google Colaboratory, although they may make use of unsupported functions for interactivity.
 
